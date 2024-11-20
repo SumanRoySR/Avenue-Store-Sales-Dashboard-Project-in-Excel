@@ -1,5 +1,5 @@
 # Avenue-Store-Sales-Dashboard-Project-in-Excel
-Objective: Avenue store wants to create an annual sales report, so that they can understand their customer behaviour and increase their sales.
+Objective: Avenue store wants to create an annual sales report, so that they can understand their customer behavior and increase their sales.
 
 Business problem:
 
